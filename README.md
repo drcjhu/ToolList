@@ -16,3 +16,6 @@ https://github.com/HACKERALERT/Picocrypt<br>
 https://www.zotero.org/<br>
 https://safing.io/<br>
 https://www.digi77.com/the-little-secret-on-digital-forensics/<br>
+https://ericzimmerman.github.io/#!index.md<br>
+https://felt.com/<br>
+https://github.com/codecrafters-io/build-your-own-x <br>
