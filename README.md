@@ -20,3 +20,5 @@ https://ericzimmerman.github.io/#!index.md<br>
 https://felt.com/<br>
 https://github.com/codecrafters-io/build-your-own-x <br>
 KASM Install Youtube https://www.youtube.com/watch?v=WQlk-SDIfFU<br>
+Markdown editor https://dillinger.io/<br>
+blip visual ping http://gfblip.appspot.com/<br>
