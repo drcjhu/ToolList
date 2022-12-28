@@ -13,3 +13,5 @@ https://distrotest.net/<br>
 https://www.mcafee.com/enterprise/en-us/downloads/free-tools/steganography.html<br>
 https://guacamole.apache.org/<br>
 https://github.com/HACKERALERT/Picocrypt<br>
+https://www.zotero.org/<br>
+https://safing.io/<br>
