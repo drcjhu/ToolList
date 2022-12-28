@@ -24,3 +24,4 @@ Markdown editor https://dillinger.io/<br>
 blip visual ping http://gfblip.appspot.com/<br>
 Diagrams https://app.diagrams.net/?src=about <br>
 Private notes https://laverna.cc/ <br>
+Notion notes https://www.notion.so/ <br>
